@@ -7,7 +7,9 @@ package mpoop7;
 
 /**
  *
- * @author X512J
+ * @author Estefany Zavala
+ * @version 1.2 23.06.2021
+ *
  */
 public class Gerente extends Empleado{ //
     private float presupuesto;
